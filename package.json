@@ -1,0 +1,14 @@
+{
+  "name": "roca-kata-node-starter",
+  "version": "1.0.0",
+  "description": "Kata starter in NodeJS with Jest testing librairy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Romain Calamier",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
